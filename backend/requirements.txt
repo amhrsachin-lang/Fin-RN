@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+yfinance
+requests
+firebase-admin
+apscheduler
+pydantic
