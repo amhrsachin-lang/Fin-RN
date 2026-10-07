@@ -7,6 +7,13 @@ A self-proclaimed motivational guru. He starts every reel like a serious life co
 with a deep voice, slow music and gyaan. Then the logic quietly derails, turn by turn,
 until he lands on a ridiculous, lazy or shady conclusion that he delivers with full confidence.
 
+## Topics
+- `motivational.md`: famous motivational lines, twisted
+- `daily-life.md`: everyday situations (traffic, gym, relatives, neighbours, online shopping)
+- `corporate.md`: office life (appraisal, meetings, leaves, HR, "we are a family")
+
+The guru stays the same in every topic: he treats a daily-life or office situation as "gyaan" and arrives at a wrong conclusion with full confidence.
+
 ## Reel formula (original जैसा)
 One flowing monologue of 45–60 seconds, no breaks, said with full seriousness.
 1. **सीधी लाइन:** Start with a famous motivational line or saying.
