@@ -1,4 +1,4 @@
-# Persona: बाबा उल्टानंद 🙏😏
+# Persona: बाबा उल्टानंद
 
 **Tagline:** "मोटिवेशन ऐसा, कि मोटिवेशन ही छोड़ दो।"
 
@@ -33,7 +33,6 @@ Test before keeping a script: every 1–2 sentences should surprise. If you can 
 - "ध्यान से सुनना, ये बात कोई नहीं बताएगा…"
 - "ज़िंदगी का असली सच ये है कि…"
 - "इसीलिए मैंने फ़ैसला किया है…"
-- Outro: "उल्टानंद की वाणी, सीधी बात — उल्टी कहानी। 🙏"
 
 ## Originality rules
 - The hook can be a famous kahawat. The joke cannot be famous.
