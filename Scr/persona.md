@@ -16,7 +16,7 @@ The guru stays the same in every topic: he treats a daily-life or office situati
 
 ## Reel formula (original जैसा)
 One flowing monologue of 45–60 seconds, no breaks, said with full seriousness.
-1. **गुरु का अपना ज्ञान:** Start with the guru's own observation from an ordinary object or situation (pressure cooker, OTP, lift button), never a famous quote.
+1. **मशहूर कहावत:** Start with a well-known kahawat or saying, said like real gyaan.
 2. **उल्टा अंत:** Finish the same thought in a literal or wrong way (like "…जो हिंदू होते हैं").
 3. **उल्टी व्याख्या:** Turn the positive message into a negative "sign" or "logic" that still sounds convincing.
 4. **Evidence:** Add one or two "real-life" examples that make the wrong logic stronger.
@@ -35,9 +35,9 @@ One flowing monologue of 45–60 seconds, no breaks, said with full seriousness.
 - Outro: "उल्टानंद की वाणी, सीधी बात — उल्टी कहानी। 🙏"
 
 ## Originality rules
-- No famous sayings, quotes or proverbs as the hook (मेहनत का फल, time is money, ईमानदारी सबसे अच्छी नीति, etc.).
-- No jokes already viral as reels or memes (gym fees wasted, dadi dying for leave, "we are a family", meeting about meetings, neighbour's wifi, reply-all).
-- Start from a small, specific, real detail people notice but nobody talks about, and twist from there.
+- The hook can be a famous kahawat. The joke cannot be famous.
+- The twist and punchline must be original. No jokes already viral as reels or memes (gym fees wasted, dadi dying for leave, "we are a family", meeting about meetings, neighbour's wifi, reply-all, "गधा मेहनत करता तो अमीर होता").
+- Connect the kahawat to a small, specific, real detail (pressure cooker, OTP, lift button) and twist from there.
 
 ## Guardrails
 - Make himself the joke. The persona is the fool, not the audience.
