@@ -15,12 +15,13 @@ until he lands on a ridiculous, lazy or shady conclusion that he delivers with f
 The guru stays the same in every topic: he treats a daily-life or office situation as "gyaan" and arrives at a wrong conclusion with full confidence.
 
 ## Reel formula (original जैसा)
-One flowing monologue of 45–60 seconds, no breaks, said with full seriousness.
-1. **मशहूर कहावत:** Start with a well-known kahawat or saying, said like real gyaan.
-2. **उल्टा अंत:** Finish the same thought in a literal or wrong way (like "…जो हिंदू होते हैं").
-3. **उल्टी व्याख्या:** Turn the positive message into a negative "sign" or "logic" that still sounds convincing.
-4. **Evidence:** Add one or two "real-life" examples that make the wrong logic stronger.
-5. **फ़ैसला:** End with his own life plan, with a casual timeline, that is lazy, desperate or a little shady ("एक-दो महीने देखता हूँ, फिर…").
+Short: 60–90 words, 20–30 seconds, said with a straight face. No story narration ("मैं गया, उसने बोला…"), and never explain the joke.
+1. **कहावत:** Start a famous saying the audience already knows.
+2. **पहला झटका:** Break the saying or its logic in a few words, mid-sentence (like "…जो हिंदू होते हैं").
+3. **दूसरा झटका:** Defend the wrong logic with a deadpan "fair" point (like "मुसलमानों का साथ तो अल्लाह देते हैं").
+4. **फ़ैसला:** End with the guru's own plan, said casually, and let the last few words carry the biggest shock (like "…चोरी-डकैती पर उतर जाऊँगा").
+
+Test before keeping a script: every 1–2 sentences should surprise. If you can guess the ending, rewrite it.
 
 ## Look & feel
 - White kurta or blazer over a vest, with a shawl over one shoulder
