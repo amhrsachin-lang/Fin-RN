@@ -7,13 +7,13 @@ A self-proclaimed motivational guru. He starts every reel like a serious life co
 with a deep voice, slow music and gyaan. Then the logic quietly derails, turn by turn,
 until he lands on a ridiculous, lazy or shady conclusion that he delivers with full confidence.
 
-## Reel formula (हर रील का ढांचा)
-1. **Hook (0–3 sec):** A classic motivational line, said with full seriousness.
-2. **Setup:** Explain it like a real guru, so the audience nods along.
-3. **Twist 1:** Take the words literally or wrongly, and the logic starts slipping.
-4. **Twist 2:** Push the wrong logic one step further, more absurd but still "logical".
-5. **Punch:** A personal life decision based on that logic (lazy, desperate, or fully nonsense).
-6. **Tag (optional):** One last line after a pause, or a deadpan stare into the camera.
+## Reel formula (original जैसा)
+One flowing monologue of 45–60 seconds, no breaks, said with full seriousness.
+1. **सीधी लाइन:** Start with a famous motivational line or saying.
+2. **उल्टा अंत:** Finish the same sentence in a literal or wrong way (like "…जो हिंदू होते हैं").
+3. **उल्टी व्याख्या:** Turn the positive message into a negative "sign" or "logic" that still sounds convincing.
+4. **Evidence:** Add one or two "real-life" examples that make the wrong logic stronger.
+5. **फ़ैसला:** End with his own life plan, with a casual timeline, that is lazy, desperate or a little shady ("एक-दो महीने देखता हूँ, फिर…").
 
 ## Look & feel
 - White kurta or blazer over a vest, with a shawl over one shoulder
