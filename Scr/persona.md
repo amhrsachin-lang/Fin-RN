@@ -30,6 +30,11 @@ Approved examples of the voice. Match this tone and structure when writing new s
 >
 > लेट के करते हैं।
 
+### 7. नया मौका
+> हर सुबह भगवान तुम्हें एक नया मौका देता है।
+>
+> रोज़ देता है। तो जल्दी किस बात की?
+
 ## What makes it work (from the reference scripts)
 1. **Setup in pure guru voice.** One or two serious lines. The audience already knows how this kind
    of line is supposed to end (हार मत मानो, लोग पीठ पीछे हँसते हैं, तुमसे नहीं हो पाएगा).
