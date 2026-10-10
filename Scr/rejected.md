@@ -43,3 +43,17 @@ Scripts that did not make it, with the reason. Check this file before writing ne
 > Competitor जितना सोए, उतना अच्छा।
 
 **Why rejected:** Same problem: one predictable laziness step, no sideways jump like "हार मत मानो".
+
+### मीठा फल
+> मेहनत का फल हमेशा मीठा होता है। इसीलिए डायबिटीज़ वालों को मेहनत नहीं करनी चाहिए। मेरी शुगर अभी borderline है, तो डॉक्टर ने बोला है थोड़ी-थोड़ी कर सकते हो।
+>
+> हफ़्ते में एक बार, खाना खाने के बाद।
+
+**Why rejected:** Not approved; no reason given. Likely the wordplay ("मीठा फल" → diabetes) is a pun the audience sees coming, and the medicine-dose ending is mild.
+
+### ऊपर वाला
+> कोई भी गलत काम करने से पहले याद रखना, ऊपर वाला सब देख रहा है। इसीलिए मैं सारे गलत काम बेसमेंट में करता हूँ।
+>
+> वहाँ Jio का नेटवर्क नहीं आता, तो ऊपर वाले का क्या आएगा।
+
+**Why rejected:** Not approved; no reason given. Likely "ऊपर वाला" read literally is a familiar joke, and the network line is a written-sounding gag rather than a deadpan guru shock.
