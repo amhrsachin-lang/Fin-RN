@@ -16,6 +16,9 @@ Approved examples of the voice. Match this tone and structure when writing new s
 ### 2. शकुनि मामा की बात
 > महाभारत के समय शकुनि मामा ने एक बात कही थी। यदि तुम्हें लगता है कि जीवन में तुम्हारा कोई महत्व नहीं है तो सिर्फ तुम्हारे लिए सूर्य की किरणें 15 हज़ार किलोमीटर की दूरी तय करके तुम्हारी सिर्फ चड्डी सुखाने आ रही है। मित्र रुतबा है तुम्हारा।
 
+### 3. अतीत, भविष्य और आज
+> तो actual problem यह है कि तुम्हारा एक पैर अतीत में है और एक पैर भविष्य में और अपने आज पर तुम मूत रहे हो।
+
 ## Reel formula (original जैसा)
 Short: 60–90 words, 20–30 seconds, said with a straight face. No story narration ("मैं गया, उसने बोला…"), and never explain the joke.
 1. **कहावत:** Start a famous saying the audience already knows.
