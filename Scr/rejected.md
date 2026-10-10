@@ -57,3 +57,10 @@ Scripts that did not make it, with the reason. Check this file before writing ne
 > वहाँ Jio का नेटवर्क नहीं आता, तो ऊपर वाले का क्या आएगा।
 
 **Why rejected:** Not approved; no reason given. Likely "ऊपर वाला" read literally is a familiar joke, and the network line is a written-sounding gag rather than a deadpan guru shock.
+
+### माफ़ी
+> अगर कोई तुम्हारा दिल तोड़ दे, तो उसे माफ़ कर देना। क्योंकि माफ़ करने वाला हमेशा बड़ा होता है।
+>
+> तो अभी माफ़ कर दो। बड़े होके देख लेंगे।
+
+**Why rejected:** Not approved; the second script of the same batch was picked over it. Likely the punch rests on the "बड़ा" double meaning, which is still a pun.

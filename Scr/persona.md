@@ -35,6 +35,11 @@ Approved examples of the voice. #1–6 are your originals; scripts marked "writt
 >
 > रोज़ देता है। तो जल्दी किस बात की?
 
+### 8. पीछे मुड़ के (written by Claude, approved by you as "ok")
+> जब ज़िंदगी में सब साथ छोड़ दें, कोई रास्ता ना दिखे, तब एक बार पीछे मुड़ के देखना।
+>
+> पीछे भी कोई नहीं है।
+
 ## What makes it work (from the reference scripts)
 1. **Setup in pure guru voice.** One or two serious lines. The audience already knows how this kind
    of line is supposed to end (हार मत मानो, लोग पीठ पीछे हँसते हैं, तुमसे नहीं हो पाएगा).
@@ -45,6 +50,7 @@ Approved examples of the voice. #1–6 are your originals; scripts marked "writt
    - **Cosmic scale, tiny purpose:** sunlight travels a huge distance just to dry your underwear. "रुतबा है तुम्हारा।"
    - **Fair but wrong logic:** "भगवान उसका साथ देते हैं जो हिंदू होते हैं, मुसलमानों का साथ तो अल्लाह देते हैं।"
 3. **The punch is the last 2–5 words.** No explaining, no reaction line after it.
+4. **The punch uses plain, everyday words**, sometimes crude (मूत, चड्डी, लेट के, नहीं हो रहा यार). No brands, no science, no wordplay the audience has to work out (Jio, diabetes, "competitor" all failed).
 
 ## Rules
 - Short: 1–4 lines, 5–15 seconds. Most of the best ones are 1–2 lines.
