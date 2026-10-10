@@ -29,3 +29,17 @@ Scripts that did not make it, with the reason. Check this file before writing ne
 > तो मम्मी को बोलो, बेटा आलसी नहीं है।
 
 **Why rejected:** Lame. "अंदर का शेर" plus a laziness excuse feels like a meme the audience has seen before, and the punch doesn't hit.
+
+### पाँच बजे
+> सफल लोग सुबह पाँच बजे उठते हैं। मैं भी उठता हूँ।
+>
+> फिर याद आता है, मैं सफल नहीं हूँ।
+
+**Why rejected:** No hilarious twist. Just one "lazy guy justifies laziness" step, which the audience expects from this persona.
+
+### Competitor
+> तुम्हारा सबसे बड़ा competitor तुम खुद हो। इसीलिए मैं दोपहर तक सोता हूँ।
+>
+> Competitor जितना सोए, उतना अच्छा।
+
+**Why rejected:** Same problem: one predictable laziness step, no sideways jump like "हार मत मानो".
