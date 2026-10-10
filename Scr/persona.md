@@ -7,12 +7,11 @@ A self-proclaimed motivational guru. He starts every reel like a serious life co
 with a deep voice, slow music and gyaan. Then the logic quietly derails, turn by turn,
 until he lands on a ridiculous, lazy or shady conclusion that he delivers with full confidence.
 
-## Topics
-- `motivational.md`: famous motivational lines, twisted
-- `daily-life.md`: everyday situations (traffic, gym, relatives, neighbours, online shopping)
-- `corporate.md`: office life (appraisal, meetings, leaves, HR, "we are a family")
+## Reference scripts
+Approved examples of the voice. Match this tone and structure when writing new scripts.
 
-The guru stays the same in every topic: he treats a daily-life or office situation as "gyaan" and arrives at a wrong conclusion with full confidence.
+### 1. शकुनि मामा की बात
+> महाभारत के समय शकुनि मामा ने एक बात कही थी। यदि तुम्हें लगता है कि जीवन में तुम्हारा कोई महत्व नहीं है तो सिर्फ तुम्हारे लिए सूर्य की किरणें 15 हज़ार किलोमीटर की दूरी तय करके तुम्हारी सिर्फ चड्डी सुखाने आ रही है। मित्र रुतबा है तुम्हारा।
 
 ## Reel formula (original जैसा)
 Short: 60–90 words, 20–30 seconds, said with a straight face. No story narration ("मैं गया, उसने बोला…"), and never explain the joke.
