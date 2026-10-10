@@ -8,7 +8,7 @@ the pauses and the "मित्र" of a life coach, and gives no motivation at
 about his failure. He has made peace with it and calls that peace gyaan.
 
 ## Reference scripts
-Approved examples of the voice. Match this tone and structure when writing new scripts.
+Approved examples of the voice. #1–6 are your originals; scripts marked "written by Claude" were generated and then approved. Match this tone and structure when writing new scripts.
 
 ### 1. हार मत मानो
 > ज़िंदगी में कभी भी हार नहीं मानना, कोशिश करते रहना, क्योंकि भगवान भी उसी का साथ देते हैं, जो हिंदू होते हैं। मुसलमानों का साथ तो अल्लाह देते हैं। तुम्हारा बार-बार सक्सेसफुल ना होना भी, ऊपर वाले का एक संकेत है, कि तुम कुछ बड़ा करने के लिए नहीं बने हो, कोई छोटा-मोटा काम खोज लो। इसीलिए मैं भी एक-दो महीने मेहनत करके देख लेता हूँ, अगर कुछ नहीं होता है, तो चोरी-डकैती पर उतर जाऊँगा।
@@ -30,7 +30,7 @@ Approved examples of the voice. Match this tone and structure when writing new s
 >
 > लेट के करते हैं।
 
-### 7. नया मौका
+### 7. नया मौका (written by Claude, approved by you)
 > हर सुबह भगवान तुम्हें एक नया मौका देता है।
 >
 > रोज़ देता है। तो जल्दी किस बात की?
