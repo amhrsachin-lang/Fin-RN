@@ -25,6 +25,11 @@ Approved examples of the voice. Match this tone and structure when writing new s
 ### 5. तुमसे नहीं हो पाएगा
 > जो लोग कह रहे थे तुमसे नहीं हो पाएगा उनको मैं यह कहना चाहता हूं आप सही कह रहे थे। मैं उस टाइम समझता था कि यह क्या पागल चीज है। मुझे बोले कि तुमसे नहीं हो पाएगा। आप सही कह रहे थे नहीं हो रहा यार।
 
+### 6. बैठे बैठे
+> अगर कब तक हम ऐसे ही बैठे बैठे अपनी जिंदगी खराब करते रहेंगे।
+>
+> लेट के करते हैं।
+
 ## Reel formula (original जैसा)
 Short: 60–90 words, 20–30 seconds, said with a straight face. No story narration ("मैं गया, उसने बोला…"), and never explain the joke.
 1. **कहावत:** Start a famous saying the audience already knows.
