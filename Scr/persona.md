@@ -3,9 +3,9 @@
 **Tagline:** "मोटिवेशन ऐसा, कि मोटिवेशन ही छोड़ दो।"
 
 ## Who he is
-A self-proclaimed motivational guru. He starts every reel like a serious life coach,
-with a deep voice, slow music and gyaan. Then the logic quietly derails, turn by turn,
-until he lands on a ridiculous, lazy or shady conclusion that he delivers with full confidence.
+A motivational speaker who has clearly failed at life but still talks like a guru. He has the voice,
+the pauses and the "मित्र" of a life coach, and gives no motivation at all. He is not angry or sad
+about his failure. He has made peace with it and calls that peace gyaan.
 
 ## Reference scripts
 Approved examples of the voice. Match this tone and structure when writing new scripts.
@@ -30,32 +30,31 @@ Approved examples of the voice. Match this tone and structure when writing new s
 >
 > लेट के करते हैं।
 
-## Reel formula (original जैसा)
-Short: 60–90 words, 20–30 seconds, said with a straight face. No story narration ("मैं गया, उसने बोला…"), and never explain the joke.
-1. **कहावत:** Start a famous saying the audience already knows.
-2. **पहला झटका:** Break the saying or its logic in a few words, mid-sentence (like "…जो हिंदू होते हैं").
-3. **दूसरा झटका:** Defend the wrong logic with a deadpan "fair" point (like "मुसलमानों का साथ तो अल्लाह देते हैं").
-4. **फ़ैसला:** End with the guru's own plan, said casually, and let the last few words carry the biggest shock (like "…चोरी-डकैती पर उतर जाऊँगा").
+## What makes it work (from the reference scripts)
+1. **Setup in pure guru voice.** One or two serious lines. The audience already knows how this kind
+   of line is supposed to end (हार मत मानो, लोग पीठ पीछे हँसते हैं, तुमसे नहीं हो पाएगा).
+2. **The punch flips the expected ending.** Pick one of these moves:
+   - **Read the word literally:** "बैठे बैठे ज़िंदगी खराब" → "लेट के करते हैं"। "एक पैर अतीत में, एक भविष्य में" → you are peeing on today.
+   - **The "win" is worse than the problem:** they laughed behind your back → now they'll laugh to your face.
+   - **Agree with the haters:** "तुमसे नहीं हो पाएगा" → "आप सही कह रहे थे"।
+   - **Cosmic scale, tiny purpose:** sunlight travels a huge distance just to dry your underwear. "रुतबा है तुम्हारा।"
+   - **Fair but wrong logic:** "भगवान उसका साथ देते हैं जो हिंदू होते हैं, मुसलमानों का साथ तो अल्लाह देते हैं।"
+3. **The punch is the last 2–5 words.** No explaining, no reaction line after it.
 
-Test before keeping a script: every 1–2 sentences should surprise. If you can guess the ending, rewrite it.
+## Rules
+- Short: 1–4 lines, 5–15 seconds. Most of the best ones are 1–2 lines.
+- Spoken Hindi with casual words (यार, भाई, मित्र, actual problem). Not literary.
+- Deadpan. He never laughs and never signals the joke.
+- He is the loser in the joke, or the listener's failure is treated as an achievement. Never punch down at others.
+- If you can guess the punch from the setup, throw the script out.
+- No jokes already viral as reels or memes (gym fees wasted, "we are a family", "this too shall pass" twists, "गधा मेहनत करता तो अमीर होता", "you are never alone, you have bacteria").
 
 ## Look & feel
 - White kurta or blazer over a vest, with a shawl over one shoulder
 - Background: a plant, a small bookshelf, or a fake "success" poster
-- Slow piano or flute music that suddenly cuts or turns funny on the twist
-- Camera: a slow push-in during the gyaan, then a sudden zoom on the punch
-
-## Signature lines
-- "ध्यान से सुनना, ये बात कोई नहीं बताएगा…"
-- "ज़िंदगी का असली सच ये है कि…"
-- "इसीलिए मैंने फ़ैसला किया है…"
-
-## Originality rules
-- The hook can be a famous kahawat. The joke cannot be famous.
-- The twist and punchline must be original. No jokes already viral as reels or memes (gym fees wasted, dadi dying for leave, "we are a family", meeting about meetings, neighbour's wifi, reply-all, "गधा मेहनत करता तो अमीर होता").
-- Connect the kahawat to a small, specific, real detail (pressure cooker, OTP, lift button) and twist from there.
+- Slow piano or flute music that stops dead on the punch
+- Camera: a slow push-in during the setup, hold still on the punch
 
 ## Guardrails
-- Make himself the joke. The persona is the fool, not the audience.
-- Religion/caste/community: keep it light and equal, like in the original, and never mock or target any group.
+- Religion/caste/community: keep it light and equal, like script #1, and never mock or target any group.
 - Crime jokes ("चोरी-डकैती") stay as an absurd punchline, never instructions.
