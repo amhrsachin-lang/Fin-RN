@@ -50,7 +50,8 @@ Approved examples of the voice. #1–6 are your originals; scripts marked "writt
    - **Cosmic scale, tiny purpose:** sunlight travels a huge distance just to dry your underwear. "रुतबा है तुम्हारा।"
    - **Fair but wrong logic:** "भगवान उसका साथ देते हैं जो हिंदू होते हैं, मुसलमानों का साथ तो अल्लाह देते हैं।"
 3. **The punch is the last 2–5 words.** No explaining, no reaction line after it.
-4. **The punch uses plain, everyday words**, sometimes crude (मूत, चड्डी, लेट के, नहीं हो रहा यार). No brands, no science, no wordplay the audience has to work out (Jio, diabetes, "competitor" all failed).
+4. **Unexpected, never obvious: twist the wrong detail.** The originals don't attack the main point of the line, they "fix" a side detail nobody was watching. "बैठे बैठे ज़िंदगी खराब" → they fix बैठे, not ज़िंदगी खराब. "पीठ पीछे हँसते थे" → they fix पीठ पीछे, not the hansna. "भगवान उसका साथ देते हैं जो…" → they change who qualifies. Hitting the main point head-on ("you're alone", "you're useless") is obvious and gets rejected.
+5. **The punch uses plain, everyday words**, sometimes crude (मूत, चड्डी, लेट के, नहीं हो रहा यार). No brands, no science, no wordplay the audience has to work out (Jio, diabetes, "competitor" all failed).
 
 ## Rules
 - Short: 1–4 lines, 5–15 seconds. Most of the best ones are 1–2 lines.

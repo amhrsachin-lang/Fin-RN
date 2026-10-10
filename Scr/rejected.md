@@ -64,3 +64,17 @@ Scripts that did not make it, with the reason. Check this file before writing ne
 > तो अभी माफ़ कर दो। बड़े होके देख लेंगे।
 
 **Why rejected:** Not approved; the second script of the same batch was picked over it. Likely the punch rests on the "बड़ा" double meaning, which is still a pun.
+
+### खुद से प्यार
+> खुद से प्यार करना सीखो। जिस दिन सीख गए, उस दिन तुम्हें किसी और की ज़रूरत नहीं पड़ेगी।
+>
+> वैसे भी कोई आ नहीं रहा।
+
+**Why rejected:** Rubbish, obvious. The punch attacks the main point of the line directly ("you're alone"), which everyone sees coming.
+
+### मकसद
+> भगवान ने हर इंसान को किसी ना किसी मकसद से भेजा है।
+>
+> कुछ लोगों को बस गिनती पूरी करने के लिए।
+
+**Why rejected:** Rubbish, obvious. A direct insult on the main point of the line, not an unexpected turn.
