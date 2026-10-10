@@ -19,6 +19,9 @@ Approved examples of the voice. Match this tone and structure when writing new s
 ### 3. अतीत, भविष्य और आज
 > तो actual problem यह है कि तुम्हारा एक पैर अतीत में है और एक पैर भविष्य में और अपने आज पर तुम मूत रहे हो।
 
+### 4. पीठ पीछे हँसने वाले
+> बस दो चार दिन और भाई जो पीठ पीछे हंसते थे ना अब सीधा आके मुंह पे हसेंगे।
+
 ## Reel formula (original जैसा)
 Short: 60–90 words, 20–30 seconds, said with a straight face. No story narration ("मैं गया, उसने बोला…"), and never explain the joke.
 1. **कहावत:** Start a famous saying the audience already knows.
