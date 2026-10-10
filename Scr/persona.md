@@ -40,6 +40,11 @@ Approved examples of the voice. #1–6 are your originals; scripts marked "writt
 >
 > पीछे भी कोई नहीं है।
 
+### 9. हाथ मत फैलाना (written by Claude, approved by you as "okay")
+> ज़िंदगी में कभी किसी के सामने हाथ मत फैलाना। स्वाभिमान भी कोई चीज़ होती है।
+>
+> पीछे से जेब में डाल देना।
+
 ## What makes it work (from the reference scripts)
 1. **Setup in pure guru voice.** One or two serious lines. The audience already knows how this kind
    of line is supposed to end (हार मत मानो, लोग पीठ पीछे हँसते हैं, तुमसे नहीं हो पाएगा).
@@ -51,6 +56,7 @@ Approved examples of the voice. #1–6 are your originals; scripts marked "writt
    - **Fair but wrong logic:** "भगवान उसका साथ देते हैं जो हिंदू होते हैं, मुसलमानों का साथ तो अल्लाह देते हैं।"
 3. **The punch is the last 2–5 words.** No explaining, no reaction line after it.
 4. **Unexpected, never obvious: twist the wrong detail.** The originals don't attack the main point of the line, they "fix" a side detail nobody was watching. "बैठे बैठे ज़िंदगी खराब" → they fix बैठे, not ज़िंदगी खराब. "पीठ पीछे हँसते थे" → they fix पीठ पीछे, not the hansna. "भगवान उसका साथ देते हैं जो…" → they change who qualifies. Hitting the main point head-on ("you're alone", "you're useless") is obvious and gets rejected.
+   The changed detail must land somewhere shocking or shameless (crime, peeing, giving up, agreeing with haters), said with dignity. If it only lands on a silly literal picture (raising door frames so parents' heads don't bow), it's a dad joke and gets rejected.
 5. **The punch uses plain, everyday words**, sometimes crude (मूत, चड्डी, लेट के, नहीं हो रहा यार). No brands, no science, no wordplay the audience has to work out (Jio, diabetes, "competitor" all failed).
 
 ## Rules

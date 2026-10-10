@@ -78,3 +78,10 @@ Scripts that did not make it, with the reason. Check this file before writing ne
 > कुछ लोगों को बस गिनती पूरी करने के लिए।
 
 **Why rejected:** Rubbish, obvious. A direct insult on the main point of the line, not an unexpected turn.
+
+### माँ-बाप का सिर
+> अपने माँ-बाप का सिर कभी झुकने मत देना।
+>
+> इसीलिए मैंने घर के सारे दरवाज़े ऊँचे करवा दिए हैं।
+
+**Why rejected:** Total rubbish. A silly literal reading with no shock, no shame, no edge. It's a dad joke, and the guru comes off as a pedant, not a shameless loser.
